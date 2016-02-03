@@ -1,0 +1,10 @@
+/** Buttons **/
+
+.btn-primary {
+  text-decoration: none;
+  height: 53px;
+  background-color: #333;
+  padding: 16px 40px;
+  font-size: 1.2em;
+  color: #fff;
+}

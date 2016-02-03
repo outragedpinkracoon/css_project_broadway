@@ -1,0 +1,8 @@
+/** Utils **/
+.upcase {
+  text-transform: uppercase;
+}
+
+.centered {
+  text-align: center;
+}

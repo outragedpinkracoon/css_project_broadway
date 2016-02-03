@@ -1,0 +1,14 @@
+nav li {
+  display: inline-block;
+  color: #fff;
+  font-size: 0.8em;
+  padding-right: 25px;
+}
+
+nav ul {
+  padding: 20px 0px 20px 40px;
+}
+
+nav {
+  background-color: #333;
+}
